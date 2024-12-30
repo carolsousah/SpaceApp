@@ -4,7 +4,7 @@
 O **Space App** é uma galeria de imagens interativa desenvolvida durante o curso *React: Estilize Componentes com Styled Components e Manipule Arquivos Estáticos*. A aplicação permite aos usuários explorar imagens, expandi-las em um modal estilizado e marcar suas favoritas.
 
 #### Acesse a página web:
-Confira como ficou o projeto clicando [aqui ](https://organo-rose-six.vercel.app/). Na página, você pode:
+Confira como ficou o projeto clicando [aqui ](https://space-app-fawn.vercel.app/). Na página, você pode:
 * Clicar na seta dupla localizada no canto inferior direito de cada card para expandir as imagens.
 * Clicar nos ícones de coração para favoritar suas imagens preferidas.
 
